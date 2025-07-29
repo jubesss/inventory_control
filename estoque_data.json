@@ -1,7 +1,7 @@
 [ {
   "codigo" : "001",
   "nome" : "Samsung Galaxy a56",
-  "descricao" : "Celular intermediário da Samsung",
+  "descricao" : "Celular Samsung",
   "preco_venda" : 2199.0,
   "preco_compra" : 1899.0,
   "quantidade" : 27,
@@ -9,7 +9,7 @@
 }, {
   "codigo" : "002",
   "nome" : "Samsung galaxy s24",
-  "descricao" : "Celular Samsung top de linha",
+  "descricao" : "Celular Samsung ",
   "preco_venda" : 3299.0,
   "preco_compra" : 2900.0,
   "quantidade" : 12,
@@ -25,7 +25,7 @@
 }, {
   "codigo" : "005",
   "nome" : "Redmi Note 12",
-  "descricao" : "celular intermediário da Xiaomi",
+  "descricao" : "celular Xiaomi",
   "preco_venda" : 2099.0,
   "preco_compra" : 1799.0,
   "quantidade" : 40,
