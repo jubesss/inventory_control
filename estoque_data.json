@@ -1,0 +1,41 @@
+[ {
+  "codigo" : "001",
+  "nome" : "Samsung Galaxy a56",
+  "descricao" : "Celular intermediário da Samsung",
+  "preco_venda" : 2199.0,
+  "preco_compra" : 1899.0,
+  "quantidade" : 27,
+  "quant_min" : 5
+}, {
+  "codigo" : "002",
+  "nome" : "Samsung galaxy s24",
+  "descricao" : "Celular Samsung top de linha",
+  "preco_venda" : 3299.0,
+  "preco_compra" : 2900.0,
+  "quantidade" : 12,
+  "quant_min" : 5
+}, {
+  "codigo" : "003",
+  "nome" : "Apple iphone 15",
+  "descricao" : "~",
+  "preco_venda" : 5799.0,
+  "preco_compra" : 5299.0,
+  "quantidade" : 3,
+  "quant_min" : 3
+}, {
+  "codigo" : "005",
+  "nome" : "Redmi Note 12",
+  "descricao" : "celular intermediário da Xiaomi",
+  "preco_venda" : 2099.0,
+  "preco_compra" : 1799.0,
+  "quantidade" : 40,
+  "quant_min" : 5
+}, {
+  "codigo" : "004",
+  "nome" : "Iphone 16",
+  "descricao" : "Celular Apple",
+  "preco_venda" : 7099.0,
+  "preco_compra" : 6799.0,
+  "quantidade" : 25,
+  "quant_min" : 3
+} ]
